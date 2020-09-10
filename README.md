@@ -12,9 +12,10 @@ ___
 ## :hammer: I’m currently working on:
 
 ### 1. [Responsive Web Design Certification](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+ </br>
  - **Basic HTML and HTML5** 
    - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master)
-   - *completed September 9, 2020*
+     - *completed September 9, 2020*
  - Basic CSS
  - Applied Visual Design
  - Applied Accessibility
@@ -23,18 +24,56 @@ ___
  - CSS Grid
  - Responsive Web Design Projects
  
- ### 2. TailwindCSS
+ ### 2. [TailwindCSS](https://tailwindcss.com/)
  - **Learning TailwindCSS**
    - Learning TailwindCSS through their [video tutorial series](https://tailwindcss.com/course/setting-up-tailwind-and-postcss)
    - [Github Commits](https://github.com/ChrisFisqly/Tailwind-CSS-Learning/commits/master)
+___
 
-## :blue_book: I’m currently learning:
+## :blue_book: I’m currently learning the following languages/frameworks:
+</br>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/css3.svg" 
+    alt="CSS badge" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/html.svg" 
+    alt="HTML badge" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/js.svg" 
+    alt="JavaScript badge" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/nodejs_larger.svg" 
+    alt="node.js badge" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/npm.svg" 
+    alt="npm badge" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
 
+## :computer: The tools I use:
+</br>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/visualstudio_code.svg" 
+    alt="Visual Studio Code badge" 
+    style="vertical-align:top margin:6px 4px"
+  >
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
