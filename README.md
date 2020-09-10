@@ -12,7 +12,7 @@ ___
 ## :hammer: I’m currently working on:
 
 ### 1. [Responsive Web Design Certification](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
- </br>
+
  - **Basic HTML and HTML5** 
    - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master)
      - *completed September 9, 2020*
