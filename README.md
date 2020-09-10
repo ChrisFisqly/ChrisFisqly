@@ -31,7 +31,7 @@ ___
 ___
 
 ## :blue_book: I’m currently learning the following languages/frameworks:
-</br>
+
 <a href=#>
   <img 
     src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/css3.svg" 
@@ -67,6 +67,7 @@ ___
     style="vertical-align:top margin:6px 4px"
   >
 </a>
+___
 
 ## :computer: The tools I use:
 </br>
