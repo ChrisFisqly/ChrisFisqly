@@ -7,10 +7,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFisqly)](https://github.com/ChrisFisqly/github-readme-stats)
 <!--
 **ChrisFisqly/ChrisFisqly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+___
+## :hammer: I’m currently working on:
 
-Here are some ideas to get you started:
+### 1. [Responsive Web Design Certification](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+ - **Basic HTML and HTML5** *completed September 9, 2020*
+ - Basic CSS
+ - Applied Visual Design
+ - Applied Accessibility
+ - Responsive Web Design Principles
+ - CSS Flexbox
+ - CSS Grid
+ - Responsive Web Design Projects
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
