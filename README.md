@@ -67,13 +67,3 @@ ___
     style="vertical-align:top margin:6px 4px"
   >
 </a>
-___
-
-## :computer: The tools I use:
-<a href=#>
-  <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/visualstudio_code.svg" 
-    alt="Visual Studio Code badge" 
-    style="vertical-align:top margin:6px 4px"
-  >
-</a>
