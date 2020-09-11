@@ -69,10 +69,15 @@ I am learning the following languages and frameworks. I plan to be competent bef
     style="vertical-align:top margin:6px 4px"
   >
 </a>
-___
+
+> “Talk is cheap. Show me the code.”
+― Linus Torvalds
+
 ___
 
 ## :hammer: I’m using the following tools/platforms:
+
+My favorite tools and the platforms I use. I will always be a PC man.
 
 <a href=#>
   <img 
@@ -116,3 +121,6 @@ ___
     style="vertical-align:top margin:6px 4px"
   >
 </a>
+
+> “The most disastrous thing that you can ever learn is your first programming language.”
+― Alan Kay
