@@ -32,6 +32,8 @@ ___
 
 ## :blue_book: I’m currently learning the following languages/frameworks:
 
+I am learning the following languages and frameworks. I plan to be competent before moving onto new ones, but we'll see...
+
 <a href=#>
   <img 
     src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/css3.svg" 
@@ -64,6 +66,53 @@ ___
   <img 
     src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/npm.svg" 
     alt="npm badge" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
+___
+___
+
+## :hammer: I’m using the following tools/platforms:
+
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/azure.svg" 
+    alt="azure" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/desktop.svg" 
+    alt="desktop" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/visualstudio_code.svg" 
+    alt="vsc" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/pc.svg" 
+    alt="PC" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/mobile.svg" 
+    alt="mobile" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a>
+<a href=#>
+  <img 
+    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/office_365.svg" 
+    alt="office365" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
