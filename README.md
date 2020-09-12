@@ -2,7 +2,7 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChrisFisqly)](https://github.com/ChrisFisqly/github-readme-stats&show_icons=true&theme=dark)
+[![ChrisFisqly's github stats](https://github-readme-stats.vercel.app/api?username=ChrisFisqly)](https://github.com/ChrisFisqly/github-readme-stats&show_icons=true&theme=dark)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFisqly)](https://github.com/ChrisFisqly/github-readme-stats)
 <!--
