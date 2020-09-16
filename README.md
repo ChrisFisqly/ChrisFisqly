@@ -14,9 +14,11 @@ ___
 ### 1. [Responsive Web Design Certification](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
  - **Basic HTML and HTML5** 
-   - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master)
+   - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Basic%20HTML%20and%20HTML5)
      - *completed September 9, 2020*
  - Basic CSS
+    - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Basic%20CSS)
+      - *completed September 15, 2020*
  - Applied Visual Design
  - Applied Accessibility
  - Responsive Web Design Principles
