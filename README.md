@@ -19,6 +19,9 @@ ___
  - **Basic CSS**
     - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Basic%20CSS)
       - *completed September 15, 2020*
+ - **Applied Visual Design**
+    - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Applied%20Visual%20Design)
+      - *completed September 17, 2020*
  - Applied Visual Design
  - Applied Accessibility
  - Responsive Web Design Principles
