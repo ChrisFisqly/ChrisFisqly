@@ -22,7 +22,9 @@ ___
  - **Applied Visual Design**
     - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Applied%20Visual%20Design)
       - *completed September 17, 2020*
- - Applied Accessibility
+ - **Applied Accessibility**
+     - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Applied%20Accessibility)
+       - *completed September 18, 2020*
  - Responsive Web Design Principles
  - CSS Flexbox
  - CSS Grid
