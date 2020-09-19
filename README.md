@@ -25,7 +25,9 @@ ___
  - **Applied Accessibility**
      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Applied%20Accessibility)
        - *completed September 18, 2020*
- - Responsive Web Design Principles
+ - **Responsive Web Design Principles**
+      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Responsive%20Web%20Design%20Principles)
+        - *completed September 18, 2020*
  - CSS Flexbox
  - CSS Grid
  - Responsive Web Design Projects
