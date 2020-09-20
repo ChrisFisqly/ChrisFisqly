@@ -87,7 +87,7 @@ ___
 
 ## :hammer: I’m using the following tools/platforms:
 
-My favorite tools and the platforms I use. I will always be a PC man.
+My favorite tools and platforms. I will always be a PC man.
 
 <a href=#>
   <img 
