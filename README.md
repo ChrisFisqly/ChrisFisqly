@@ -28,7 +28,9 @@ ___
  - **Responsive Web Design Principles**
       - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Responsive%20Web%20Design%20Principles)
         - *completed September 18, 2020*
- - CSS Flexbox
+ - **CSS Flexbox**
+       - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/CSS%20Flexbox)
+        - *completed September 19, 2020*
  - CSS Grid
  - Responsive Web Design Projects
  
