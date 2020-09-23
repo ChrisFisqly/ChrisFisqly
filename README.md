@@ -31,8 +31,17 @@ ___
  - **CSS Flexbox**
       - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/CSS%20Flexbox)
         - *completed September 19, 2020*
- - CSS Grid
- - Responsive Web Design Projects
+ - **CSS Grid**
+      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/CSS%20Grid)
+        - *completed September 23, 2020*
+ - **Responsive Web Design Projects**
+      - ***Build a Tribute Page***
+      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Build%20a%20Tribute%20Page)
+        - *completed September 23, 2020*
+      - Build a Survey Form
+      - Build a Product Landing Page
+      - Build a Technical Documentation Page
+      - Build a Personal Portfolio Webpage
  
  ### 2. [TailwindCSS](https://tailwindcss.com/)
  - **Learning TailwindCSS**
