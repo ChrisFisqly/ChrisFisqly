@@ -39,6 +39,8 @@ ___
       - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Build%20a%20Tribute%20Page)
         - *completed September 23, 2020*
       - Build a Survey Form
+      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Build%20a%20Survey%20Form)
+        - *completed September 26, 2020*
       - Build a Product Landing Page
       - Build a Technical Documentation Page
       - Build a Personal Portfolio Webpage
