@@ -104,42 +104,42 @@ My favorite tools and platforms. I will always be a PC man.
 
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/azure.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/azure.svg" 
     alt="azure" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/desktop.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/desktop.svg" 
     alt="desktop" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/visualstudio_code.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/visualstudio_code.svg" 
     alt="vsc" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/pc.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/pc.svg" 
     alt="PC" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/mobile.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/mobile.svg" 
     alt="mobile" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/office_365.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/office_365.svg" 
     alt="office365" 
     style="vertical-align:top margin:6px 4px"
   >
