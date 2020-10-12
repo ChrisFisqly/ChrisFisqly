@@ -17,22 +17,22 @@ ___
    - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Basic%20HTML%20and%20HTML5)
      - *completed September 9, 2020*
  - **Basic CSS**
-    - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Basic%20CSS)
+    - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Basic%20CSS)
       - *completed September 15, 2020*
  - **Applied Visual Design**
-    - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Applied%20Visual%20Design)
+    - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Applied%20Visual%20Design)
       - *completed September 17, 2020*
  - **Applied Accessibility**
-     - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Applied%20Accessibility)
+     - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Applied%20Accessibility)
        - *completed September 18, 2020*
  - **Responsive Web Design Principles**
-      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Responsive%20Web%20Design%20Principles)
+      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Responsive%20Web%20Design%20Principles)
         - *completed September 18, 2020*
  - **CSS Flexbox**
-      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/CSS%20Flexbox)
+      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/CSS%20Flexbox)
         - *completed September 19, 2020*
  - **CSS Grid**
-      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/CSS%20Grid)
+      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/CSS%20Grid)
         - *completed September 23, 2020*
  - **Responsive Web Design Projects**
       - ***Build a Tribute Page***
