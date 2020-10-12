@@ -2,16 +2,16 @@
 
 
 
-[![ChrisFisqly's github stats](https://github-readme-stats.vercel.app/api?username=ChrisFisqly)](https://github.com/ChrisFisqly/github-readme-stats&show_icons=true&theme=dark)
+[![Chris Spangler's github stats](https://github-readme-stats.vercel.app/api?username=ChrisSpangler)](https://github.com/ChrisSpangler/github-readme-stats&show_icons=true&theme=dark)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFisqly)](https://github.com/ChrisFisqly/github-readme-stats)
 <!--
-**ChrisFisqly/ChrisFisqly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChrisSpangler/ChrisSpangler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ___
 ## :hammer: I’m currently working on:
 
-### 1. [Responsive Web Design Certification](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+### 1. [Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
  - **Basic HTML and HTML5** 
    - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Basic%20HTML%20and%20HTML5)
