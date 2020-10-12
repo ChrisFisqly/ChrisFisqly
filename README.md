@@ -36,13 +36,13 @@ ___
         - *completed September 23, 2020*
  - **Responsive Web Design Projects**
       - ***Build a Tribute Page***
-      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Build%20a%20Tribute%20Page)
+      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Build%20a%20Tribute%20Page)
         - *completed September 23, 2020*
       - ***Build a Survey Form***
-      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Build%20a%20Survey%20Form)
+      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Build%20a%20Survey%20Form)
         - *completed September 26, 2020*
       - ***Build a Product Landing Page***
-      - [Github Commits](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/commits/master/Build%20a%20Product%20Landing%20Page)
+      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Build%20a%20Product%20Landing%20Page)
         - *completed October 3, 2020*
       - Build a Technical Documentation Page
       - Build a Personal Portfolio Webpage
@@ -50,7 +50,7 @@ ___
  ### 2. [TailwindCSS](https://tailwindcss.com/)
  - **Learning TailwindCSS**
    - Learning TailwindCSS through their [video tutorial series](https://tailwindcss.com/course/setting-up-tailwind-and-postcss)
-   - [Github Commits](https://github.com/ChrisFisqly/Tailwind-CSS-Learning/commits/master)
+   - [Github Commits](https://github.com/ChrisSpangler/Tailwind-CSS-Learning/commits/master)
 ___
 
 ## :blue_book: I’m currently learning the following languages/frameworks:
@@ -59,35 +59,35 @@ I am learning the following languages and frameworks. I plan to be competent bef
 
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/css3.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/css3.svg" 
     alt="CSS badge" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/html.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/html.svg" 
     alt="HTML badge" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/js.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/js.svg" 
     alt="JavaScript badge" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/nodejs_larger.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/nodejs_larger.svg" 
     alt="node.js badge" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
 <a href=#>
   <img 
-    src="https://github.com/ChrisFisqly/ChrisFisqly/blob/master/img/npm.svg" 
+    src="https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/npm.svg" 
     alt="npm badge" 
     style="vertical-align:top margin:6px 4px"
   >
