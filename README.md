@@ -4,7 +4,7 @@
 
 [![Chris Spangler's github stats](https://github-readme-stats.vercel.app/api?username=ChrisSpangler)](https://github.com/ChrisSpangler/github-readme-stats&show_icons=true&theme=dark)
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFisqly)](https://github.com/ChrisFisqly/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisSpangler)](https://github.com/ChrisSpangler/github-readme-stats)
 <!--
 **ChrisSpangler/ChrisSpangler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
