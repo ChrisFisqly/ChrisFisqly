@@ -9,51 +9,22 @@
 **ChrisSpangler/ChrisSpangler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ___
-## :hammer: I’m currently working on:
+## :hammer: What I am currently working on:
 
-### 1. [Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
-
- - **Basic HTML and HTML5** 
-   - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Basic%20HTML%20and%20HTML5)
-     - *completed September 9, 2020*
- - **Basic CSS**
-    - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Basic%20CSS)
-      - *completed September 15, 2020*
- - **Applied Visual Design**
-    - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Applied%20Visual%20Design)
-      - *completed September 17, 2020*
- - **Applied Accessibility**
-     - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Applied%20Accessibility)
-       - *completed September 18, 2020*
- - **Responsive Web Design Principles**
-      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Responsive%20Web%20Design%20Principles)
-        - *completed September 18, 2020*
- - **CSS Flexbox**
-      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/CSS%20Flexbox)
-        - *completed September 19, 2020*
- - **CSS Grid**
-      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/CSS%20Grid)
-        - *completed September 23, 2020*
- - **Responsive Web Design Projects**
-      - ***Build a Tribute Page***
-      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Build%20a%20Tribute%20Page)
-        - *completed September 23, 2020*
-      - ***Build a Survey Form***
-      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Build%20a%20Survey%20Form)
-        - *completed September 26, 2020*
-      - ***Build a Product Landing Page***
-      - [Github Commits](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master/Build%20a%20Product%20Landing%20Page)
-        - *completed October 3, 2020*
-      - Build a Technical Documentation Page
-      - Build a Personal Portfolio Webpage
+### 1. [JavaScript Algorithms and Data Certification](https://github.com/ChrisSpangler/JavaScript-Algorithms-and-Data-Structures-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
  
- ### 2. [TailwindCSS](https://tailwindcss.com/)
+### 2. [TailwindCSS](https://tailwindcss.com/)
  - **Learning TailwindCSS**
    - Learning TailwindCSS through their [video tutorial series](https://tailwindcss.com/course/setting-up-tailwind-and-postcss)
    - [Github Commits](https://github.com/ChrisSpangler/Tailwind-CSS-Learning/commits/master)
 ___
+## :rocket: Certifications and Projects I Finished:
 
-## :blue_book: I’m currently learning the following languages/frameworks:
+### 1. [Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+![Image of my Responsive Web Design Certification](https://octodex.github.com/images/yaktocat.png)
+___
+
+## :blue_book: I am currently learning the following languages/frameworks:
 
 I am learning the following languages and frameworks. I plan to be competent before moving onto new ones, but we'll see...
 
@@ -98,7 +69,7 @@ I am learning the following languages and frameworks. I plan to be competent bef
 
 ___
 
-## :hammer: I’m using the following tools/platforms:
+## :hammer: I am using the following tools/platforms:
 
 My favorite tools and platforms. I will always be a PC man.
 
