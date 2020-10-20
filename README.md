@@ -27,9 +27,9 @@ ___
 ![Chris Spangler's Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/blob/master/img/freeCodeCampcertification.PNG)
 
 ### 2. Hacktoberfest
+![Hacktoberfest](https://github.com/ChrisSpangler/Personal-Website/blob/main/images/hacktoberfest.png)
  - **Contributed to Open Source**
   - [Magical Musings](https://github.com/ChrisSpangler/magicalmusings.github.io)
-![Hacktoberfest](https://github.com/ChrisSpangler/Personal-Website/blob/main/images/hacktoberfest.png)
 ___
 
 ## :blue_book: I am currently learning the following languages/frameworks:
