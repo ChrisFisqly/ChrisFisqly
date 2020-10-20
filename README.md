@@ -12,7 +12,7 @@ ___
 ## :hammer: What I am currently working on:
 
 ### 1. [JavaScript Algorithms and Data Certification](https://github.com/ChrisSpangler/JavaScript-Algorithms-and-Data-Structures-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
- - **Learning JavaScript
+ - **Learning JavaScript**
    - Learning JavaScript through [FCC JavaScript Tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
    - [GitHub Commits](https://github.com/ChrisSpangler/JavaScript-Algorithms-and-Data-Structures-Certification/commits/main)
  
@@ -24,6 +24,11 @@ ___
 ## :rocket: Certifications and Projects I Finished:
 
 ### 1. [Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+![Chris Spangler's Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/blob/master/img/freeCodeCampcertification.PNG)
+
+### 2. Hacktoberfest
+ - **Contributed to Open Source**
+  - [Magical Musings](https://github.com/ChrisSpangler/magicalmusings.github.io)
 ![alt text](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/blob/master/img/freeCodeCampcertification.PNG)
 ___
 
