@@ -29,7 +29,7 @@ ___
 ### 2. Hacktoberfest
  - **Contributed to Open Source**
   - [Magical Musings](https://github.com/ChrisSpangler/magicalmusings.github.io)
-![alt text](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/blob/master/img/freeCodeCampcertification.PNG)
+![Hacktoberfest](https://github.com/ChrisSpangler/Personal-Website/blob/main/images/hacktoberfest.png)
 ___
 
 ## :blue_book: I am currently learning the following languages/frameworks:
