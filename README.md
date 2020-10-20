@@ -21,7 +21,7 @@ ___
 ## :rocket: Certifications and Projects I Finished:
 
 ### 1. [Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
-![Image of my Responsive Web Design Certification](https://octodex.github.com/images/yaktocat.png)
+![alt text](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/blob/master/img/freeCodeCampcertification.PNG)
 ___
 
 ## :blue_book: I am currently learning the following languages/frameworks:
