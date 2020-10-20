@@ -24,10 +24,10 @@ ___
 ## :rocket: Certifications and Projects I Finished:
 
 ### 1. [Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
-![Chris Spangler's Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/blob/master/img/freeCodeCampcertification.PNG)
+![Chris Spangler's Responsive Web Design Certification](https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/freeCodeCampcertificationsmall.png)
 
 ### 2. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-![Hacktoberfest](https://github.com/ChrisSpangler/Personal-Website/blob/main/images/hacktoberfest.png)
+![Hacktoberfest](https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/hacktoberfestsmall.png)
  - **Contributed to Open Source**
   - [Magical Musings](https://github.com/ChrisSpangler/magicalmusings.github.io)
 ___
