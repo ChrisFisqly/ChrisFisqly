@@ -12,11 +12,13 @@ ___
 ## :hammer: What I am currently working on:
 
 ### 1. [JavaScript Algorithms and Data Certification](https://github.com/ChrisSpangler/JavaScript-Algorithms-and-Data-Structures-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+ - ** Learning through the tutorial series
+   - [GitHub Commits] (https://github.com/ChrisSpangler/JavaScript-Algorithms-and-Data-Structures-Certification/commits/main)
  
 ### 2. [TailwindCSS](https://tailwindcss.com/)
  - **Learning TailwindCSS**
    - Learning TailwindCSS through their [video tutorial series](https://tailwindcss.com/course/setting-up-tailwind-and-postcss)
-   - [Github Commits](https://github.com/ChrisSpangler/Tailwind-CSS-Learning/commits/master)
+   - [GitHub Commits](https://github.com/ChrisSpangler/Tailwind-CSS-Learning/commits/master)
 ___
 ## :rocket: Certifications and Projects I Finished:
 
