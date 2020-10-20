@@ -14,7 +14,7 @@ ___
 ### 1. [JavaScript Algorithms and Data Certification](https://github.com/ChrisSpangler/JavaScript-Algorithms-and-Data-Structures-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
  - **Learning JavaScript
    - Learning JavaScript through [FCC JavaScript Tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
-   - [GitHub Commits] (https://github.com/ChrisSpangler/JavaScript-Algorithms-and-Data-Structures-Certification/commits/main)
+   - [GitHub Commits](https://github.com/ChrisSpangler/JavaScript-Algorithms-and-Data-Structures-Certification/commits/main)
  
 ### 2. [TailwindCSS](https://tailwindcss.com/)
  - **Learning TailwindCSS**
