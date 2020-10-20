@@ -26,7 +26,7 @@ ___
 ### 1. [Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 ![Chris Spangler's Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/blob/master/img/freeCodeCampcertification.PNG)
 
-### 2. Hacktoberfest
+### 2. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 ![Hacktoberfest](https://github.com/ChrisSpangler/Personal-Website/blob/main/images/hacktoberfest.png)
  - **Contributed to Open Source**
   - [Magical Musings](https://github.com/ChrisSpangler/magicalmusings.github.io)
