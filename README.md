@@ -25,14 +25,18 @@ ___
 
 ### 1. [Responsive Web Design Certification](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification) from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 ![Chris Spangler's Responsive Web Design Certification](https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/freeCodeCampcertificationsmall.png)
-
+ - **Completed the Certification Course**
+  - [GitHub Contributions](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/commits/master)
+  
 ### 2. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 ![Hacktoberfest](https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/hacktoberfestsmall.png)
  - **Contributed to Open Source**
   - [Magical Musings](https://github.com/ChrisSpangler/magicalmusings.github.io)
 
 ### 3. [Portfolio Website](https://chrisspangler.dev/)
-
+![Chris Spangler's Personal Portfolio Website](https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/personalwebsitesmaller.png)
+ - **Built to showcase my work**
+  - [Personal Portfolio Website](https://github.com/ChrisSpangler/Personal-Website)
 ___
 
 ## :blue_book: I am currently learning the following languages/frameworks:
