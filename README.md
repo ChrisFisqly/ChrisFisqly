@@ -30,6 +30,9 @@ ___
 ![Hacktoberfest](https://github.com/ChrisSpangler/ChrisSpangler/blob/master/img/hacktoberfestsmall.png)
  - **Contributed to Open Source**
   - [Magical Musings](https://github.com/ChrisSpangler/magicalmusings.github.io)
+
+### 3. [Portfolio Website](https://chrisspangler.dev/)
+
 ___
 
 ## :blue_book: I am currently learning the following languages/frameworks:
